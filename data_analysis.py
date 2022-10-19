@@ -9,7 +9,7 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Title
-st.title("Data Analysis and Visualization")
+st.title("Data Analysis & Visualization")
 
 # Sidebar
 st.sidebar.subheader("Visualization Settings")
